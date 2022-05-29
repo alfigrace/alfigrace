@@ -6,7 +6,8 @@
 - 📫 How to reach me ...
 --->
 
-Hi, aliens. I'm interested in ML, AI, Data Science, Robotics, and many other. Currently learning python by myself, so why don't we code together sometime?
+Hi, explorers.
+I'm interested in ML, AI, Data Science, Robotics, and many other. Currently learning python by myself, should we code together sometime?
 
 <!---
 <p align="left">
