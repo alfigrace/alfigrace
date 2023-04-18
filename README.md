@@ -9,6 +9,13 @@
 Hi, explorers.
 I'm interested in ML, AI, Data Science, Robotics, and many other. Currently learning python by myself, should we code together sometime?
 
+<p align="left">
+<a href="https://github.com/alfigrace">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfigrace&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfigrace&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!---
 <p align="left">
 <a href="https://github.com/gilangadhan">
