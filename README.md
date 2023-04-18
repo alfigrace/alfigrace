@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-### Hi, explorers🚀
+# Hi, explorers🚀
 I'm interested in ML, AI, Data Science, Robotics, and many other. Currently learning python by myself, should we code together sometime?
 
 <p align="left">
