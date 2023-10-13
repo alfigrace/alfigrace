@@ -8,6 +8,7 @@
 
 # Hi, explorers🚀
 I'm interested in ML, AI, Data Science, Robotics, and many other. Currently learning python by myself, should we code together sometime?
+(temporary inactive uploading codes, will be back soon)
 
 <p align="left">
 <a href="https://github.com/alfigrace">
